@@ -5,7 +5,7 @@
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7 or higher
-- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [PyTgCalls](https://github.com/Badshah57/pytgcalls)
 </details>
 
 <details>
